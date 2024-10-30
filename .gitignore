@@ -1,6 +1,5 @@
 *.npy
 *.tif
-*.pkl
 *.xlsx
 notebooks/
 hydro_wb_env/
